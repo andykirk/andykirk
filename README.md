@@ -23,4 +23,4 @@ Mostly I work on web design and [Joomla extensions](https://github.com/NPEU) for
 
 ## Infographics
 
-It's a long story how I got to work on these, but I'm quite proud of the fact that I've worked on most the [Physical activity guidelines infographics](https://www.gov.uk/government/publications/physical-activity-guidelines-infographics) for the Department of Health.
+It's a long story how I got to work on these, but I'm quite proud of the fact that I've worked on most of the [Physical activity guidelines infographics](https://www.gov.uk/government/publications/physical-activity-guidelines-infographics) for the Department of Health.

@@ -9,7 +9,7 @@ I also work as an occasional freelancer and I've (very) occasionally written the
 * [Responsive CSS Patterns without Media Queries](https://www.sitepoint.com/responsive-css-patterns-without-media-queries)
 * [Cutting the Mustard with CSS Media Queries](https://www.sitepoint.com/cutting-the-mustard-with-css-media-queries)
 
-They're old, now - but still very relevant.
+They're old, now - but still mostly relevant.
 
 I'm also a member of the W3C and occasionally work on the [use cases for Container Queries](https://github.com/WICG/cq-usecases) and my name does crop up here-and-there from time-to-time.
 
